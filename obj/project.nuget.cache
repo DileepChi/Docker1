@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "7/7Yst8CsUQ0ots315QMlpJ1ylUv43357LPjxY0qqukyKgR3ZKtkzGF9cfLihDblzl6Cepkq5cmwWFJk/4UDZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ChittibalaD\\Desktop\\Dileep\\Docker\\completedocker\\completedocker\\completedocker.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ChittibalaD\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
